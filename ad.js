@@ -369,7 +369,7 @@ function FindProxyForURL(url, host){
     ]
 
     dnsResolve("114.114.114.114");
-    var IS_AD = "PROXY google.cn";
+    var IS_AD = "PROXY qq.com";
     switch (mode){
       case 0:
           IS_NOT_AD = "DIRECT";
