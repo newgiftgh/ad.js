@@ -368,8 +368,8 @@ function FindProxyForURL(url, host){
 //【在分界线上面可以追加URL规则，两边加上双引号，使用逗号分隔。】
     ]
 
-    dnsResolve("114.114.114.114");
-    var IS_AD = "PROXY 114.114.115.115";
+    dnsResolve("google.cn");
+    var IS_AD = "PROXY google.cn";
     switch (mode){
       case 0:
           IS_NOT_AD = "DIRECT";
