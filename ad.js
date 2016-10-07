@@ -89,8 +89,8 @@ function FindProxyForURL(url, host){
 "dup.baidustatic.com",
 "cbjs.baidu.com",
 //<taobao>
-"tanx.com",
-"alimama.com",
+//"tanx.com",
+//"alimama.com",
 //<360>
 "lianmeng.360.cn",
 //<others>
