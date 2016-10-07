@@ -369,7 +369,7 @@ function FindProxyForURL(url, host){
     ]
 
     dnsResolve("114.114.114.114");
-    var IS_AD = "PROXY 127.0.0.1:443";
+    var IS_AD = "PROXY baidu.com:443";
     switch (mode){
       case 0:
           IS_NOT_AD = "DIRECT";
