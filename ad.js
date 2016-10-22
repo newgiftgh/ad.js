@@ -58,8 +58,12 @@ function FindProxyForURL(url, host){
 "ad.api.3g.tudou.com",
 "statis.api.3g.tudou.com",
 "atm.tudou.com",
-"stat.tudou.com",
+"nstat.tudou.com",
+"adextensioncontrol.tudou.com",
+"iwstat.tudou.com",
 "stats.tudou.com",
+"adplay.tudou.com",         
+"adcontrol.tudou.com",
 //<pptv>
 "de.as.pptv.com",
 "pp2.pptv.com",
