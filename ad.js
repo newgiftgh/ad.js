@@ -56,6 +56,10 @@ function FindProxyForURL(url, host){
 "vqq.admaster.com.cn",
 //<tudou>
 "ad.api.3g.tudou.com",
+"statis.api.3g.tudou.com",
+"atm.tudou.com",
+"stat.tudou.com",
+"stats.tudou.com",
 //<pptv>
 "de.as.pptv.com",
 "pp2.pptv.com",
