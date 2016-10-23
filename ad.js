@@ -4533,7 +4533,7 @@ function FindProxyForURL(url, host){
 //【在分界线上面可以追加URL规则，两边加上双引号，使用逗号分隔。】
     ]
 
-    dnsResolve("google.cn");
+    dnsResolve("example.com");
     var IS_AD = "PROXY example.com:443";
     switch (mode){
       case 0:
