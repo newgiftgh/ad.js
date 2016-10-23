@@ -3819,7 +3819,7 @@ function FindProxyForURL(url, host){
 //【在分界线上面可以追加URL规则，两边加上双引号，使用逗号分隔。】
     ]
 
-    dnsResolve("www.qcloud.com");
+    dnsResolve("114.114.114.114");
     var IS_AD = "PROXY www.google.cn:443";
     switch (mode){
       case 0:
