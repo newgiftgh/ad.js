@@ -97,6 +97,12 @@ function FindProxyForURL(url, host){
 //<qq>
 "lives.l.qq.com",
 "vqq.admaster.com.cn",
+"adsolution.imtt.qq.com",
+"adsense.html5.qq.com",
+"tpush.html5.qq.com",
+"mqqadr.reader.qq.com",
+"jpush.html5.qq.com",
+"adsrich.qq.com",
 //<tudou>
 "ad.api.3g.tudou.com",
 "statis.api.3g.tudou.com",
