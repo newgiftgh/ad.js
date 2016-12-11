@@ -1913,7 +1913,6 @@ function FindProxyForURL(url, host){
 "c.gdt.qq.com",
 "v.gdt.qq.com",
 "updatecenter.qq.com",
-"activeqq.3g.qq.com",
 "jrlt.beacon.qq.com",
 "oth.eve.mdt.qq.com",
 "oth.str.mdt.qq.com",
